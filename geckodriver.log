@@ -1,0 +1,460 @@
+1634858753911	geckodriver	INFO	Listening on 127.0.0.1:58557
+1634858756870	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58558" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofileHjqsE1"
+1634858757255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileHjqsE1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58558/devtools/browser/adceaebd-5213-4900-9a66-99b6ac1d874f
+1634858762237	Marionette	INFO	Listening on port 58570
+1634858762701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1634859195124	Marionette	INFO	Stopped listening on port 58570
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileINoAMv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58798/devtools/browser/8b6cfdd9-e288-41ee-88de-3b9c50948a00
+1634859153737	Marionette	INFO	Listening on port 58805
+1634859154097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1634859158391	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634859212343	geckodriver	INFO	Listening on 127.0.0.1:58887
+1634859215413	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58888" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofileKUYkZA"
+1634859215882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileKUYkZA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58888/devtools/browser/32e196c3-7974-4747-b8d3-0bb42c360df3
+1634859220150	Marionette	INFO	Listening on port 58893
+1634859220572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1634859225764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1634859477255	geckodriver	INFO	Listening on 127.0.0.1:59038
+1634859480312	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59039" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofileKk2pqf"
+1634859480692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileKk2pqf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59039/devtools/browser/3f5e6580-22f4-4915-acca-02b7420141af
+1634859485119	Marionette	INFO	Listening on port 59044
+1634859485607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1634859498721	Marionette	INFO	Stopped listening on port 59044
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635216060071	geckodriver	INFO	Listening on 127.0.0.1:53539
+1635216063162	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53540" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofilebGIVKX"
+1635216066010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilebGIVKX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53540/devtools/browser/e36b611d-86c3-475b-bb4c-f7f11708990e
+1635216074819	Marionette	INFO	Listening on port 53545
+1635216075075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635216081762	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635216123169	Marionette	INFO	Stopped listening on port 53541635216123699	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53609" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofilezZoLQ8"
+1635216125044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilezZoLQ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53609/devtools/browser/0cbe778b-04a5-405b-9311-7af92218ec20
+1635216130848	Marionette	INFO	Listening on port 53615
+1635216131191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635216326467	Marionette	INFO	Stopped listening on port 53615
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+localhost:53667/devtools/browser/b38751d6-8bfa-41d6-8847-637f229a3bde
+1635216162918	Marionette	INFO	Listening on port 53673
+1635216163142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1635216324797	Marionette	INFO	Stopped listening on port 53673
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Conti1635216325683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileLLztrO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53745/devtools/browser/32811b5b-b4f0-44c8-b021-4615cc441b9c
+1635216331882	Marionette	INFO	Listening on port 53750
+1635216332291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1635216429791	Marionette	INFO	Stopped listening on port 53750
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Clconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileSVHGbD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53820/devtools/browser/a6ad48dd-617b-4e22-b597-652c8c3fdf30
+1635216435578	Marionette	INFO	Listening on port 53826
+1635216435968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1635216828382	Marionette	INFO	Stopped listening on port 53826
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635217403951	geckodriver	INFO	Listening on 127.0.0.1:54106
+1635217407036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54107" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofileGs3bsB"
+1635217407937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileGs3bsB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54107/devtools/browser/a2cbaef4-bb4c-4633-ab8b-36fc8112aef1
+1635217413903	Marionette	INFO	Listening on port 54112
+1635217414314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635217458475	Marionette	INFO	Stopped listening on port 54111635217459632	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54163" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofilesJxet8"
+1635217460269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilesJxet8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54163/devtools/browser/6368e7b6-b394-434f-b8a3-1a1ecce37a7e
+1635217465649	Marionette	INFO	Listening on port 54169
+1635217466001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635217591922	Marionette	INFO	Stopped listening on port 54169
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635217645893	geckodriver	INFO	Listening on 127.0.0.1:54291
+1635217649140	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54292" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofile8RCKdM"
+1635217649941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofile8RCKdM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54292/devtools/browser/7636dbc2-cd63-4330-a709-6b66a7aa9eea
+1635217655049	Marionette	INFO	Listening on port 54297
+1635217655620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635217668960	Marionette	INFO	Stopped listening on port 54297
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635217703798	geckodriver	INFO	Listening on 127.0.0.1:54352
+1635217706875	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54353" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofileJmPJl8"
+1635217707645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileJmPJl8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54353/devtools/browser/170f8b58-5b9b-4cad-bb8b-74eaac560595
+1635217712501	Marionette	INFO	Listening on port 54358
+1635217712757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635217776787	Marionette	INFO	Stopped listening on port 54358
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635217792831	geckodriver	INFO	Listening on 127.0.0.1:54412
+1635217795930	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54413" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofileqMQNqc"
+1635217796573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileqMQNqc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54413/devtools/browser/461f5b1b-d5e8-4ce0-b468-2ad2063e7d5e
+1635217801110	Marionette	INFO	Listening on port 54418
+1635217801306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635218360325	Marionette	INFO	Stopped listening on port 54418
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+al\\Temp\\rust_mozprofileKm2HRb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65419/devtools/browser/feacaba0-fed5-441c-a17f-a132965288e0
+1635218069384	Marionette	INFO	Listening on port 65424
+1635218069813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635218370518	Marionette	INFO	Stopped listening on port 65424
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+rs\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofileLecMgb"
+1635218127936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileLecMgb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65481/devtools/browser/6582d0d0-2376-4e59-9372-0478213b2c40
+1635218133210	Marionette	INFO	Listening on port 65487
+1635218133644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://www.tp-link.com/assets/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js line 303 > srcScript, line 561: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635218876037	Marionette	INFO	Stopped listening on port 65487
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+c49ada5e4
+1635218419624	Marionette	INFO	Listening on port 49218
+1635218420087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635218420686	Marionette	INFO	Stopped listening on port 49218
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine mercadolivre@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49246" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofilesJpOG5"
+1635218443556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilesJpOG5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49246/devtools/browser/3cf866b6-53b0-428e-9237-0a9cb09b1b36
+1635218448879	Marionette	INFO	Listening on port 49251
+1635218449371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635218595270	Marionette	INFO	Stopped listening on port 49251
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635218625730	geckodriver	INFO	Listening on 127.0.0.1:49326
+1635218628816	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49327" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofile795wtg"
+1635218629392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofile795wtg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49327/devtools/browser/6314f63b-562e-4830-b2a4-ebc50f8bab7a
+1635218634332	Marionette	INFO	Listening on port 49332
+1635218634648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635218877386	Marionette	INFO	Stopped listening on port 49332
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileIeD5hS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49423/devtools/browser/09f505d3-6800-489e-a432-0fed9f82dde2
+1635218875644	Marionette	INFO	Listening on port 49428
+1635218876163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635219108918	Marionette	INFO	Stopped listening on port 49428
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileLNCXMT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58535/devtools/browser/152113f8-e5ab-46ee-8615-79f5a01c26e5
+1635219017195	Marionette	INFO	Listening on port 58542
+1635219017507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635219110266	Marionette	INFO	Stopped listening on port 58542
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch rconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilen8u225\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58593/devtools/browser/469c4490-4926-4dd3-81cd-81188b9d436b
+1635219115165	Marionette	INFO	Listening on port 58598
+1635219115406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635220197861	Marionette	INFO	Stopped listening on port 58598
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rofile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilelMCKue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58856/devtools/browser/f662d36f-a78e-420d-847b-4602c9e966a4
+1635219850156	Marionette	INFO	Listening on port 58861
+1635219850677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635220184232	Marionette	INFO	Stopped listening on port 58861
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635220638550	geckodriver	INFO	Listening on 127.0.0.1:56554
+1635220641589	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56555" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofilePdPhRp"
+1635220642216	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilePdPhRp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56555/devtools/browser/703677b4-a8cf-4b96-873d-da7721403983
+1635220647082	Marionette	INFO	Listening on port 56560
+1635220647458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635221210644	Marionette	INFO	Stopped listening on port 56560
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+al\\Temp\\rust_mozprofileViWkbg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56610/devtools/browser/cd8fd9c0-c886-4d09-991b-ec5a8863df56
+1635220707131	Marionette	INFO	Listening on port 56616
+1635220707396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635221211708	Marionette	INFO	Stopped listening on port 56616
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileMkHsjX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56715/devtools/browser/3b7d66b3-bded-4e87-9087-d221e6ac9843
+1635221007842	Marionette	INFO	Listening on port 56720
+1635221008161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635221514288	Marionette	INFO	Stopped listening on port 56720
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+:56799/devtools/browser/72affafd-eabd-421b-92c2-fc2952e57b02
+1635221220969	Marionette	INFO	Listening on port 56806
+1635221221366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635221515743	Marionette	INFO	Stopped listening on port 56806
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilezQHBTH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56872/devtools/browser/d217a60f-9b54-4b87-b2a0-913e0154b784
+1635221259216	Marionette	INFO	Listening on port 56878
+1635221259634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635221516721	Marionette	INFO	Stopped listening on port 56878
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileTl4i25\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56948/devtools/browser/f473521f-e136-4a00-a73d-ac277b1c6b09
+1635221310963	Marionette	INFO	Listening on port 56953
+1635221311424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635221314546	Marionette	INFO	Stopped listening on port 56953
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1635221354894	geckodriver	INFO	Listening on 127.0.0.1:57014
+1635221357935	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57015" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofilemzxZGH"
+1635221359197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilemzxZGH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57015/devtools/browser/25d14433-3b18-4c63-a629-eec0a2df6a72
+1635221364394	Marionette	INFO	Listening on port 57020
+1635221365111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635221518051	Marionette	INFO	Stopped listening on port 57020
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilexKNSEv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57088/devtools/browser/9f046f85-b858-429d-b6f3-5554106ae472
+1635221436741	Marionette	INFO	Listening on port 57093
+1635221437092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635221519005	Marionette	INFO	Stopped listening on port 57093
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch rconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileQuG9vL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57157/devtools/browser/131f7b0e-101e-4c85-be11-95eca093971b
+1635221523981	Marionette	INFO	Listening on port 57163
+1635221524288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/mainFrame.htm line 241 > injectedScript, line 793: TypeError: guestVap is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635222619209	Marionette	INFO	Stopped listening on port 57163
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+AqCoz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56392/devtools/browser/5a243326-ca9e-4297-b161-94d9324d3d31
+1635222177323	Marionette	INFO	Listening on port 56397
+1635222177641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/mainFrame.htm line 241 > injectedScript, line 793: TypeError: guestVap is undefined
+1635222620490	Marionette	INFO	Stopped listening on port 56397
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofilepmSAUk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50529/devtools/browser/a0ad5667-9325-416e-bfd0-5e44a25b31c9
+1635222522774	Marionette	INFO	Listening on port 50534
+1635222523250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+1635222528845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/mainFrame.htm line 241 > injectedScript, line 793: TypeError: guestVap is undefined
+1635222622225	Marionette	INFO	Stopped listening on port 50534
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch rconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofileC7QFeI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50601/devtools/browser/7571bf28-b023-41a7-adee-02638a8d9850
+1635222625524	Marionette	INFO	Listening on port 50607
+1635222625748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/mainFrame.htm line 241 > injectedScript, line 793: TypeError: guestVap is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635223451290	Marionette	INFO	Stopped listening on port 50607
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+, (void 0)))
+DevTools listening on ws://localhost:50674/devtools/browser/46484160-54e5-466b-969d-d0459f82464c
+1635222762243	Marionette	INFO	Listening on port 50679
+1635222762372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/mainFrame.htm line 241 > injectedScript, line 793: TypeError: guestVap is undefined
+1635222824555	Marionette	INFO	Stopped listening on port 50679
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1635222938317	geckodriver	INFO	Listening on 127.0.0.1:50739
+1635222941414	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50740" "-no-remote" "-profile" "C:\\Users\\ITALOP~1\\AppData\\Local\\Temp\\rust_mozprofiler0wFos"
+1635222941954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ITALO PIOVAN\\AppData\\Local\\Temp\\rust_mozprofiler0wFos\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50740/devtools/browser/01a6bcab-6f93-4f2c-88b1-f6f3babd1d12
+1635222947056	Marionette	INFO	Listening on port 50745
+1635222947334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript warning: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/js/lib.js, line 561: unreachable code after return statement
+JavaScript error: https://emulator.tp-link.com/EMULATOR_WR840NV4_BR/mainFrame.htm line 241 > injectedScript, line 793: TypeError: guestVap is undefined
+1635223007781	Marionette	INFO	Stopped listening on port 50745
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
